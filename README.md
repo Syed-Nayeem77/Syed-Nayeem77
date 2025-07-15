@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Syed Abdul Nayeem
 
-<!--
-**Syed-Nayeem77/Syed-Nayeem77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Data Scientist | Passionate about ML, MLOps, LLMs & Explainable AI  
+   3+ Years Experience | Python, PyTorch, TensorFlow, LangChain, HuggingFace, SageMaker
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Featured Projects:
+-  [Fair Job Recommender System](https://github.com/Syed-Nayeem77/Fair-Job-Recommender-System)  
+  *A bias-aware recommender with fairness metrics.*
+
+-  [Customer Churn Prediction](https://github.com/Syed-Nayeem77/Customer_Churn_Prediction)  
+  *ML pipeline with EDA, model evaluation & explainability.*
+
+- [GenAI Evaluator](https://github.com/Syed-Nayeem77/GenAI-Evaluator)  
+  *Evaluation framework for RAG, summarization, and LLM outputs.*
+
+-  [MLOps on SageMaker](https://github.com/Syed-Nayeem77/Infrastructure-as-Code-template-to-deploy-ML-model-on-AWS-SageMaker)  
+  *End-to-end ML deployment using IaC, Lambda & SageMaker.*
+
+---
+
+ Let’s connect: [LinkedIn](https://www.linkedin.com/in/syed-nayeem77/)
