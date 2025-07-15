@@ -20,4 +20,4 @@
 
 ---
 
- Let’s connect: [LinkedIn](https://www.linkedin.com/in/syed-nayeem77/)
+ Let’s connect: [LinkedIn](https://www.linkedin.com/in/syed-abdul-nayeem-7788931b2)
