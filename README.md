@@ -1,8 +1,6 @@
 # Hi, I'm Syed Abdul Nayeem
 
-   Data Scientist | Passionate about ML, MLOps, LLMs & Explainable AI  
-   3+ Years Experience | Python, PyTorch, TensorFlow, LangChain, HuggingFace, SageMaker
-
+   Data Scientist | Machine Learning | Recommender Systems | Python, SQL, PyTorch
 ---
 
 ###  Featured Projects:
