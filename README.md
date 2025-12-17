@@ -1,22 +1,41 @@
 ## Hi, I'm Syed Abdul Nayeem
 
-## Senior Data Scientist | Machine Learning | Recommender Systems | Python, SQL, PyTorch | MLOps
+## Data Scientist | Predictive Modeling | Machine Learning | Python | SQL | Azure
 
-I build scalable, fair, and interpretable machine learning solutions with end-to-end pipelines, from data preprocessing and feature engineering to model deployment and monitoring. My work focuses on recommender systems, bias mitigation, and real-world business impact.
+I’m a Data Scientist with 2+ years of experience building end-to-end data science and predictive modeling solutions. My work focuses on EDA, feature engineering, model building, evaluation, and delivering insights that support real business decisions across e-commerce, finance, and retail domains.
 
-Featured Projects
-## Fair Job Recommender System
+I enjoy working with structured datasets and developing practical machine learning models. I’m also exploring Generative AI and LLM fundamentals to grow in modern AI applications.
 
-A bias-aware, two-tower neural recommender for candidate-job matching, including fairness metrics, explainable predictions (SHAP), and MLOps deployment with monitoring, drift detection, and automated retraining.
+ Projects
+ ### Shop Sales Forecasting (Time Series)
 
-## Customer Churn Prediction
+Forecasted daily sales for a retail coffee chain to optimize inventory and staffing.
 
-An end-to-end ML pipeline demonstrating EDA, feature engineering, model evaluation, explainability, and deployment via APIs and CI/CD pipelines.
+Built time-series models using feature engineering (lags, moving averages) and LSTM on Azure.
 
-Other Projects
+### Credit Risk Prediction
 
-## Olist Brazilian Dataset Analysis – E-commerce insights and analytics.
+Developed classification models to predict loan default probability using customer billing and payment data.
 
-## Insurance Claim Prediction – Predictive modeling and regression analysis.
+Applied EDA, SMOTE for class imbalance, and evaluated models using AUC and accuracy.
 
-## IPL Auction Data Analysis – Exploratory data analysis and ML modeling.
+### Olist Brazilian Dataset Analysis
+
+Performed e-commerce data analysis to uncover customer behavior, sales trends, and delivery insights.
+
+Used Python and SQL for data cleaning, analysis, and visualization.
+
+### Insurance Claim Prediction
+
+Built predictive models to estimate insurance claim likelihood and amounts.
+
+Focused on regression, feature engineering, and model evaluation.
+
+### IPL Auction Data Analysis
+
+Analyzed IPL auction data to identify player valuation trends and key bidding factors.
+
+Conducted exploratory data analysis and applied basic ML techniques.
+
+## Currently exploring: Generative AI, LLM basics, and modern ML workflows
+## Focus areas: Predictive modeling, business analytics, and applied machine learning
